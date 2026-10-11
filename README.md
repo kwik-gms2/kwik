@@ -13,7 +13,7 @@ Kwik is a fast, open source, cross-platform runtime & recompiler for GameMaker S
 - Windows
 - Linux
 - PSVita
-- 3DS (via [this](https://github.com/fr3dsp/kwik-3ds) fork despite the fact it's a bit outdated)
+- 3DS (via [this](https://github.com/kwik-gms2/kwik-3ds) fork by me @fr3dsp despite the fact it's VERY outdated)
 
 ## Supported Backends
 - OpenGL
